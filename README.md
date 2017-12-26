@@ -1,0 +1,2 @@
+# install_mecab
+MacにMecabをインストールするシェルスクリプト
